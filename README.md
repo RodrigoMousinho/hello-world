@@ -1,4 +1,5 @@
 # hello-world
 a new repository
-hello,
-i am interested on transitions and development by education. Looking for develop and create organic organisations more humane and sustainable.
+Hello,
+
+I am interested on transitions and development by education. Looking for developping and creating organic organisations, more humane and sustainable.
